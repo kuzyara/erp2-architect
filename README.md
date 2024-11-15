@@ -1,2 +1,4 @@
-# erp2-architect
-Архитектура проектов erp (1c)
+# Архитектура проектов 1C:ERP
+
+
+![image](arch_erp2.png)
